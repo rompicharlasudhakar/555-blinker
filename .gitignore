@@ -8,3 +8,4 @@ _autosave-*
 *.000
 *.net
 
+.history/
